@@ -25,7 +25,7 @@ const TodoHeadBlock = styled.div`
   }
 `;
 
-function ToDoHead () {
+function TodoHead () {
     return (
         <TodoHeadBlock>
             <h1>2021-4-7</h1>
@@ -35,4 +35,4 @@ function ToDoHead () {
     );
 }
 
-export default ToDoHead;
+export default TodoHead;
